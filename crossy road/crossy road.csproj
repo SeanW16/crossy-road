@@ -89,5 +89,23 @@
   <ItemGroup>
     <None Include="Resources\images-removebg-preview %281%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_475523051_hDUIwKoESIqF2oVSjBlDEXVhWYjuljOL-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\592388__magnuswaker__car-crash-with-glass.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chickencute %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\120841__freemaster2__button-press.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
